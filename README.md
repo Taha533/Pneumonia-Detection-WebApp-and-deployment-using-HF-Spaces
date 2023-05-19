@@ -45,7 +45,7 @@ A web application has been developed using Gradio to provide a user-friendly int
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/Pneumonia-Detection.git](https://github.com/Taha533/Pneumonia-Detection-WebApp-and-deployment-using-HF-Spaces.git)
+git clone https://github.com/Taha533/Pneumonia-Detection-WebApp-and-deployment-using-HF-Spaces.git
 ```
 2. Install the required dependencies:
 
