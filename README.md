@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-This project aims to detect pneumonia using the VGG19 convolutional neural network model. The dataset used for training the model consists of 5,856 images of chest X-rays. The trained model can classify whether an input chest X-ray image is positive or negative for pneumonia.
+This project aims to classify pneumonia using the transfer learning model VGG19. The dataset used for training the model consists of 5,856 images of chest X-rays. The trained model can classify whether an input chest X-ray image is positive or negative for pneumonia.
 
 ## Dataset
 The dataset used in this project contains 5,856 chest X-ray images. It includes both pneumonia-positive and pneumonia-negative cases. You can obtain the dataset from this [source](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
